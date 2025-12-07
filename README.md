@@ -1,6 +1,3 @@
-Here is your **fully formatted, professional GitHub-ready README.md** — with proper Markdown headings, tables, code blocks, bullets, and consistent structure.
-
----
 
 # 🍕 **PizzaHub – MERN Food Delivery App**
 
