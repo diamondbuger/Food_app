@@ -1,0 +1,21 @@
+# Frontend
+frontend/node_modules
+frontend/build
+frontend/.env
+frontend/.env.local
+
+# Backend
+backend/node_modules
+backend/.env
+backend/config/database.js
+
+# OS
+.DS_Store
+.env
+*.log
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
