@@ -370,15 +370,4 @@ GitHub: [https://github.com/diamondbuger/Food_app](https://github.com/diamondbug
 
 # 🎉 **Thank You for Using PizzaHub!**
 
-If you face issues, create an issue on GitHub.
-Happy Coding! 🚀🍕
 
----
-
-If you want, I can also generate:
-
-✅ Badges (GitHub stars, forks, license, tech stack, etc.)
-✅ A logo/banner for your README
-✅ Auto-generated table of contents
-
-Just tell me!
